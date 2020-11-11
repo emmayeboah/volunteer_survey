@@ -1,0 +1,61 @@
+#volunteer{
+  margin: 1rem;
+}
+
+body{
+  text-align: center;
+  font-family: helvetica;
+  font-size: 18px;
+  background-image: url("../images/humanitarian.jpg");
+  background-size: contain;
+  background-origin: content-box;
+  color: white;
+}
+
+#title{
+  font-size: 45px;
+}
+
+#description{
+  font-size: 20px;
+
+}
+
+#body{
+  width: 600px;
+  padding: 30px;
+  margin: auto;
+  border-radius: 15px;
+  text-align: left;
+  background-color: rgba(0, 0, 0, 0.6);
+  color: white;
+}
+#name{
+  width: 550px;
+  padding: 15px;
+  border-radius: 10px;
+  border-color: #2a30de:
+}
+
+#email{
+  width: 550px;
+  padding: 15px;
+  border-radius: 10px;
+  border-color: #2a30de:
+}
+
+#organization{
+  width: 550px;
+  padding: 15px;
+  border-radius: 10px;
+  border-color: #2a30de:
+}
+
+#submit{
+  width: 550px;
+  padding: 15px;
+  border-radius: 10px;
+  font-size: 1.5rem;
+  color: brown;
+  background-image: radial-gradient(black);
+}
